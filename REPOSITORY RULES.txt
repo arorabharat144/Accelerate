@@ -1,0 +1,2 @@
+1. Do not ever push to Master. Only Bryaden is allowed to do this.
+2. DO NOT TOUCH THE GIT IGNORE FILE
